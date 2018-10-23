@@ -12,6 +12,7 @@ If you prefer reading, then these are some of the curated resources you can refe
 
 If you prefer youtube videos, then these are the best ones out there:
 - [Programming in C++ Playlist](https://www.youtube.com/playlist?list=PLdFUT7614Oi6Jb5aqm87gZu_Jqw1igAGB)
+- [thenewboston](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83)
 
 If you prefer MOOCs, then refer the following:
 - [edX: Intro to C++](https://www.edx.org/course/introduction-c-microsoft-dev210x-5)
